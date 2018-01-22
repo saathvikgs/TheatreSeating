@@ -8,7 +8,7 @@ java -jar TheatreSeating.jar
 	
 Few other things:
 
-1. The appliation will ask user to choose file consisting o json records for input data
+1. The appliation will ask user to choose file consisting of input data
 
 2. If an unexpected event occurs during the execution of the application, then they are ignored and application continues its execution. 
    If there is an error while reading file then the application terminates. 
